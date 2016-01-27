@@ -5,3 +5,6 @@
 
 ### how to start the example
 `npm start`
+
+### path to directive
+public/app.js
