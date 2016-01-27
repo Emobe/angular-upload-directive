@@ -1,0 +1,19 @@
+{
+  "name": "angular-upload",
+  "description": "Example of angular upload directive",
+  "main": "server.js",
+  "authors": [
+    "Anthony Shuker anthony.r.shuker@gmail.com"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "angular-upload",
+  "version": "1.0.0",
+  "description": "Example of angular upload directive",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Emobe/angular-upload-directive.git"
+  },
+  "author": "Anthony Shuker anthony.r.shuker@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Emobe/angular-upload-directive/issues"
+  },
+  "homepage": "https://github.com/Emobe/angular-upload-directive#readme"
+}
